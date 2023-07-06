@@ -1,0 +1,403 @@
+'vyezdnoj-avtoehlektrik'=>[ //выездной-автоэлектрик
+            'ucode'=>'%D0%B2%D1%8B%D0%B5%D0%B7%D0%B4%D0%BD%D0%BE%D0%B9-%D0%B0%D0%B2%D1%82%D0%BE%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D0%BA',
+            'session_start'=>'vyezdnoj-avtoehlektrik',
+            'service_1'=>'Выездной автоэлектрик',
+            'service_7'=>'Выездной автоэлектрик',
+            'service_9'=>'Выездной автоэлектрик',
+            'service_10'=>'Выездной автоэлектрик',
+            'service_11'=>'от 900 р.',
+            'service_12'=>'1500',
+            'service_template'=>'/views/service_page/main_service.php',
+            'price' => '6 000'
+
+        ],
+'otklyuchit-signalizaciyu'=>[ //отключить-сигнализацию
+            'ucode'=>'%D0%BE%D1%82%D0%BA%D0%BB%D1%8E%D1%87%D0%B8%D1%82%D1%8C-%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8E',
+            'session_start'=>'otklyuchit-signalizaciyu',
+            'service_1'=>'Отключить сигнализацию',
+            'service_7'=>'Отключить сигнализацию',
+            'service_9'=>'Отключить сигнализацию',
+            'service_10'=>'Отключить сигнализацию',
+            'service_11'=>'от 900 р.',
+            'service_12'=>'1500',
+            'service_template'=>'/views/service_page/main_service.php',
+            'price' => '6 000'
+
+        ],
+'remont-avtosignalizacii'=>[ //ремонт-автосигнализации
+            'ucode'=>'%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82-%D0%B0%D0%B2%D1%82%D0%BE%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8',
+            'session_start'=>'remont-avtosignalizacii',
+            'service_1'=>'Ремонт автосигнализации',
+            'service_7'=>'Ремонт автосигнализации',
+            'service_9'=>'Ремонт автосигнализации',
+            'service_10'=>'Ремонт автосигнализации',
+            'service_11'=>'от 900 р.',
+            'service_12'=>'1500',
+            'service_template'=>'/views/service_page/main_service.php',
+            'price' => '6 000'
+
+        ],
+'remont-starterov'=>[ //ремонт-стартеров
+            'ucode'=>'%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%B5%D1%80%D0%BE%D0%B2',
+            'session_start'=>'remont-starterov',
+            'service_1'=>'Ремонт стартеров',
+            'service_7'=>'Ремонт стартеров',
+            'service_9'=>'Ремонт стартеров',
+            'service_10'=>'Ремонт стартеров',
+            'service_11'=>'от 900 р.',
+            'service_12'=>'1500',
+            'service_template'=>'/views/service_page/main_service.php',
+            'price' => '6 000'
+
+        ],
+'zamena-starterov'=>[ //замена-стартеров
+            'ucode'=>'%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%B5%D1%80%D0%BE%D0%B2',
+            'session_start'=>'zamena-starterov',
+            'service_1'=>'Замена стартеров',
+            'service_7'=>'Замена стартеров',
+            'service_9'=>'Замена стартеров',
+            'service_10'=>'Замена стартеров',
+            'service_11'=>'от 900 р.',
+            'service_12'=>'1500',
+            'service_template'=>'/views/service_page/main_service.php',
+            'price' => '6 000'
+
+        ],
+'remont-generatorov'=>[ //ремонт-генераторов
+            'ucode'=>'%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82-%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BE%D0%B2',
+            'session_start'=>'remont-generatorov',
+            'service_1'=>'Ремонт генераторов',
+            'service_7'=>'Ремонт генераторов',
+            'service_9'=>'Ремонт генераторов',
+            'service_10'=>'Ремонт генераторов',
+            'service_11'=>'от 900 р.',
+            'service_12'=>'1500',
+            'service_template'=>'/views/service_page/main_service.php',
+            'price' => '6 000'
+
+        ],
+'zamena-generatorov'=>[ //замена-генераторов
+            'ucode'=>'%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0-%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BE%D0%B2',
+            'session_start'=>'zamena-generatorov',
+            'service_1'=>'Замена генераторов',
+            'service_7'=>'Замена генераторов',
+            'service_9'=>'Замена генераторов',
+            'service_10'=>'Замена генераторов',
+            'service_11'=>'от 900 р.',
+            'service_12'=>'1500',
+            'service_template'=>'/views/service_page/main_service.php',
+            'price' => '6 000'
+
+        ],
+'vskrytie-avto'=>[ //вскрытие-авто
+            'ucode'=>'%D0%B2%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D0%B5-%D0%B0%D0%B2%D1%82%D0%BE',
+            'session_start'=>'vskrytie-avto',
+            'service_1'=>'Вскрытие авто',
+            'service_7'=>'Вскрытие авто',
+            'service_9'=>'Вскрытие авто',
+            'service_10'=>'Вскрытие авто',
+            'service_11'=>'от 900 р.',
+            'service_12'=>'1500',
+            'service_template'=>'/views/service_page/main_service.php',
+            'price' => '6 000'
+
+        ],
+'pomoshch-na-doroge'=>[ //помощь-на-дороге
+            'ucode'=>'%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C-%D0%BD%D0%B0-%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B5',
+            'session_start'=>'pomoshch-na-doroge',
+            'service_1'=>'Помощь на дороге',
+            'service_7'=>'Помощь на дороге',
+            'service_9'=>'Помощь на дороге',
+            'service_10'=>'Помощь на дороге',
+            'service_11'=>'от 900 р.',
+            'service_12'=>'1500',
+            'service_template'=>'/views/service_page/main_service.php',
+            'price' => '6 000'
+
+        ],
+'vyezdnoj-avtoservis'=>[ //выездной-автосервис
+            'ucode'=>'%D0%B2%D1%8B%D0%B5%D0%B7%D0%B4%D0%BD%D0%BE%D0%B9-%D0%B0%D0%B2%D1%82%D0%BE%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81',
+            'session_start'=>'vyezdnoj-avtoservis',
+            'service_1'=>'Выездной автосервис',
+            'service_7'=>'Выездной автосервис',
+            'service_9'=>'Выездной автосервис',
+            'service_10'=>'Выездной автосервис',
+            'service_11'=>'от 900 р.',
+            'service_12'=>'1500',
+            'service_template'=>'/views/service_page/main_service.php',
+            'price' => '6 000'
+
+        ],
+'zamena-predokhranitelya'=>[ //замена-предохранителя
+            'ucode'=>'%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0-%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8F',
+            'session_start'=>'zamena-predokhranitelya',
+            'service_1'=>'Замена предохранителя',
+            'service_7'=>'Замена предохранителя',
+            'service_9'=>'Замена предохранителя',
+            'service_10'=>'Замена предохранителя',
+            'service_11'=>'от 900 р.',
+            'service_12'=>'1500',
+            'service_template'=>'/views/service_page/main_service.php',
+            'price' => '6 000'
+
+        ],
+'zamena-zamka-zazhiganiya'=>[ //замена-замка-зажигания
+            'ucode'=>'%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0-%D0%B7%D0%B0%D0%BC%D0%BA%D0%B0-%D0%B7%D0%B0%D0%B6%D0%B8%D0%B3%D0%B0%D0%BD%D0%B8%D1%8F',
+            'session_start'=>'zamena-zamka-zazhiganiya',
+            'service_1'=>'Замена замка зажигания',
+            'service_7'=>'Замена замка зажигания',
+            'service_9'=>'Замена замка зажигания',
+            'service_10'=>'Замена замка зажигания',
+            'service_11'=>'от 900 р.',
+            'service_12'=>'1500',
+            'service_template'=>'/views/service_page/main_service.php',
+            'price' => '6 000'
+
+        ],
+'gruzovoj-shinomontazh'=>[ //грузовой-шиномонтаж
+            'ucode'=>'%D0%B3%D1%80%D1%83%D0%B7%D0%BE%D0%B2%D0%BE%D0%B9-%D1%88%D0%B8%D0%BD%D0%BE%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B6',
+            'session_start'=>'gruzovoj-shinomontazh',
+            'service_1'=>'Грузовой шиномонтаж',
+            'service_7'=>'Грузовой шиномонтаж',
+            'service_9'=>'Грузовой шиномонтаж',
+            'service_10'=>'Грузовой шиномонтаж',
+            'service_11'=>'от 900 р.',
+            'service_12'=>'1500',
+            'service_template'=>'/views/service_page/main_service.php',
+            'price' => '6 000'
+
+        ],
+'zapusk-avtomobilya'=>[ //запуск-автомобиля
+            'ucode'=>'%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA-%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F',
+            'session_start'=>'zapusk-avtomobilya',
+            'service_1'=>'Запуск автомобиля',
+            'service_7'=>'Запуск автомобиля',
+            'service_9'=>'Запуск автомобиля',
+            'service_10'=>'Запуск автомобиля',
+            'service_11'=>'от 900 р.',
+            'service_12'=>'1500',
+            'service_template'=>'/views/service_page/main_service.php',
+            'price' => '6 000'
+
+        ],
+'zaryadit-akkumulyator-avtomobilya'=>[ //зарядить-аккумулятор-автомобиля
+            'ucode'=>'%D0%B7%D0%B0%D1%80%D1%8F%D0%B4%D0%B8%D1%82%D1%8C-%D0%B0%D0%BA%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F',
+            'session_start'=>'zaryadit-akkumulyator-avtomobilya',
+            'service_1'=>'Зарядить аккумулятор автомобиля',
+            'service_7'=>'Зарядить аккумулятор автомобиля',
+            'service_9'=>'Зарядить аккумулятор автомобиля',
+            'service_10'=>'Зарядить аккумулятор автомобиля',
+            'service_11'=>'от 900 р.',
+            'service_12'=>'1500',
+            'service_template'=>'/views/service_page/main_service.php',
+            'price' => '6 000'
+
+        ],
+'akkumulyator-s-dostavkoj-i-ustanovkoj'=>[ //аккумулятор-с-доставкой-и-установкой
+            'ucode'=>'%D0%B0%D0%BA%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%81-%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%BE%D0%B9-%D0%B8-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%BE%D0%B9',
+            'session_start'=>'akkumulyator-s-dostavkoj-i-ustanovkoj',
+            'service_1'=>'Аккумулятор с доставкой и установкой',
+            'service_7'=>'Аккумулятор с доставкой и установкой',
+            'service_9'=>'Аккумулятор с доставкой и установкой',
+            'service_10'=>'Аккумулятор с доставкой и установкой',
+            'service_11'=>'от 900 р.',
+            'service_12'=>'1500',
+            'service_template'=>'/views/service_page/main_service.php',
+            'price' => '6 000'
+
+        ],
+'zamena-akkumulyatora-v-avtomobile'=>[ //замена аккумулятора-в-автомобиле
+            'ucode'=>'%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0%20%D0%B0%D0%BA%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B0-%D0%B2-%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B5',
+            'session_start'=>'zamena-akkumulyatora-v-avtomobile',
+            'service_1'=>'Замена аккумулятора в автомобиле',
+            'service_7'=>'Замена аккумулятора в автомобиле',
+            'service_9'=>'Замена аккумулятора в автомобиле',
+            'service_10'=>'Замена аккумулятора в автомобиле',
+            'service_11'=>'от 900 р.',
+            'service_12'=>'1500',
+            'service_template'=>'/views/service_page/main_service.php',
+            'price' => '6 000'
+
+        ],
+'zamena-remnej-grm'=>[ //замена-ремней-грм
+            'ucode'=>'%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0-%D1%80%D0%B5%D0%BC%D0%BD%D0%B5%D0%B9-%D0%B3%D1%80%D0%BC',
+            'session_start'=>'zamena-remnej-grm',
+            'service_1'=>'Замена ремней грм',
+            'service_7'=>'Замена ремней грм',
+            'service_9'=>'Замена ремней грм',
+            'service_10'=>'Замена ремней грм',
+            'service_11'=>'от 900 р.',
+            'service_12'=>'1500',
+            'service_template'=>'/views/service_page/main_service.php',
+            'price' => '6 000'
+
+        ],
+'zamena-cepej-grm'=>[ //замена-цепей-грм
+            'ucode'=>'%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0-%D1%86%D0%B5%D0%BF%D0%B5%D0%B9-%D0%B3%D1%80%D0%BC',
+            'session_start'=>'zamena-cepej-grm',
+            'service_1'=>'Замена цепей грм',
+            'service_7'=>'Замена цепей грм',
+            'service_9'=>'Замена цепей грм',
+            'service_10'=>'Замена цепей грм',
+            'service_11'=>'от 900 р.',
+            'service_12'=>'1500',
+            'service_template'=>'/views/service_page/main_service.php',
+            'price' => '6 000'
+
+        ],
+'zamena-tormoznykh-kolodok'=>[ //замена-тормозных-колодок
+            'ucode'=>'%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0-%D1%82%D0%BE%D1%80%D0%BC%D0%BE%D0%B7%D0%BD%D1%8B%D1%85-%D0%BA%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D0%BA',
+            'session_start'=>'zamena-tormoznykh-kolodok',
+            'service_1'=>'Замена тормозных колодок',
+            'service_7'=>'Замена тормозных колодок',
+            'service_9'=>'Замена тормозных колодок',
+            'service_10'=>'Замена тормозных колодок',
+            'service_11'=>'от 900 р.',
+            'service_12'=>'1500',
+            'service_template'=>'/views/service_page/main_service.php',
+            'price' => '6 000'
+
+        ],
+'zamena-tormoznykh-diskov'=>[ //замена-тормозных-дисков
+            'ucode'=>'%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0-%D1%82%D0%BE%D1%80%D0%BC%D0%BE%D0%B7%D0%BD%D1%8B%D1%85-%D0%B4%D0%B8%D1%81%D0%BA%D0%BE%D0%B2',
+            'session_start'=>'zamena-tormoznykh-diskov',
+            'service_1'=>'Замена тормозных дисков',
+            'service_7'=>'Замена тормозных дисков',
+            'service_9'=>'Замена тормозных дисков',
+            'service_10'=>'Замена тормозных дисков',
+            'service_11'=>'от 900 р.',
+            'service_12'=>'1500',
+            'service_template'=>'/views/service_page/main_service.php',
+            'price' => '6 000'
+
+        ],
+'prikurit-avtomobil'=>[ //прикурить-автомобиль
+            'ucode'=>'%D0%BF%D1%80%D0%B8%D0%BA%D1%83%D1%80%D0%B8%D1%82%D1%8C-%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C',
+            'session_start'=>'prikurit-avtomobil',
+            'service_1'=>'Прикурить автомобиль',
+            'service_7'=>'Прикурить автомобиль',
+            'service_9'=>'Прикурить автомобиль',
+            'service_10'=>'Прикурить автомобиль',
+            'service_11'=>'от 900 р.',
+            'service_12'=>'1500',
+            'service_template'=>'/views/service_page/main_service.php',
+            'price' => '6 000'
+
+        ],
+'prikurit-akkumulyator-avtomobilya'=>[ //прикурить-аккумулятор-автомобиля
+            'ucode'=>'%D0%BF%D1%80%D0%B8%D0%BA%D1%83%D1%80%D0%B8%D1%82%D1%8C-%D0%B0%D0%BA%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8F',
+            'session_start'=>'prikurit-akkumulyator-avtomobilya',
+            'service_1'=>'Прикурить аккумулятор автомобиля',
+            'service_7'=>'Прикурить аккумулятор автомобиля',
+            'service_9'=>'Прикурить аккумулятор автомобиля',
+            'service_10'=>'Прикурить аккумулятор автомобиля',
+            'service_11'=>'от 900 р.',
+            'service_12'=>'1500',
+            'service_template'=>'/views/service_page/main_service.php',
+            'price' => '6 000'
+
+        ],
+'remont-shin'=>[ //ремонт-шин
+            'ucode'=>'%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82-%D1%88%D0%B8%D0%BD',
+            'session_start'=>'remont-shin',
+            'service_1'=>'Ремонт шин',
+            'service_7'=>'Ремонт шин',
+            'service_9'=>'Ремонт шин',
+            'service_10'=>'Ремонт шин',
+            'service_11'=>'от 900 р.',
+            'service_12'=>'1500',
+            'service_template'=>'/views/service_page/main_service.php',
+            'price' => '6 000'
+
+        ],
+'remont-bokovykh-porezov-shin'=>[ //ремонт-боковых-порезов-шин
+            'ucode'=>'%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82-%D0%B1%D0%BE%D0%BA%D0%BE%D0%B2%D1%8B%D1%85-%D0%BF%D0%BE%D1%80%D0%B5%D0%B7%D0%BE%D0%B2-%D1%88%D0%B8%D0%BD',
+            'session_start'=>'remont-bokovykh-porezov-shin',
+            'service_1'=>'Ремонт боковых порезов шин',
+            'service_7'=>'Ремонт боковых порезов шин',
+            'service_9'=>'Ремонт боковых порезов шин',
+            'service_10'=>'Ремонт боковых порезов шин',
+            'service_11'=>'от 900 р.',
+            'service_12'=>'1500',
+            'service_template'=>'/views/service_page/main_service.php',
+            'price' => '6 000'
+
+        ],
+'khranenie-shin'=>[ //хранение-шин
+            'ucode'=>'%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D1%88%D0%B8%D0%BD',
+            'session_start'=>'khranenie-shin',
+            'service_1'=>'Хранение шин',
+            'service_7'=>'Хранение шин',
+            'service_9'=>'Хранение шин',
+            'service_10'=>'Хранение шин',
+            'service_11'=>'от 900 р.',
+            'service_12'=>'1500',
+            'service_template'=>'/views/service_page/main_service.php',
+            'price' => '6 000'
+
+        ],
+'zamena-shin'=>[ //замена-шин
+            'ucode'=>'%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0-%D1%88%D0%B8%D0%BD',
+            'session_start'=>'zamena-shin',
+            'service_1'=>'Замена шин',
+            'service_7'=>'Замена шин',
+            'service_9'=>'Замена шин',
+            'service_10'=>'Замена шин',
+            'service_11'=>'от 900 р.',
+            'service_12'=>'1500',
+            'service_template'=>'/views/service_page/main_service.php',
+            'price' => '6 000'
+
+        ],
+'smena-reziny-na-zimnyuyu'=>[ //смена-резины-на-зимнюю
+            'ucode'=>'%D1%81%D0%BC%D0%B5%D0%BD%D0%B0-%D1%80%D0%B5%D0%B7%D0%B8%D0%BD%D1%8B-%D0%BD%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8E%D1%8E',
+            'session_start'=>'smena-reziny-na-zimnyuyu',
+            'service_1'=>'Смена резины на зимнюю',
+            'service_7'=>'Смена резины на зимнюю',
+            'service_9'=>'Смена резины на зимнюю',
+            'service_10'=>'Смена резины на зимнюю',
+            'service_11'=>'от 900 р.',
+            'service_12'=>'1500',
+            'service_template'=>'/views/service_page/main_service.php',
+            'price' => '6 000'
+
+        ],
+'zapravka-kondicionera-v-avtomobile'=>[ //заправка-кондиционера-в-автомобиле
+            'ucode'=>'%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0-%D0%BA%D0%BE%D0%BD%D0%B4%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%B5%D1%80%D0%B0-%D0%B2-%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B5',
+            'session_start'=>'zapravka-kondicionera-v-avtomobile',
+            'service_1'=>'Заправка кондиционера в автомобиле',
+            'service_7'=>'Заправка кондиционера в автомобиле',
+            'service_9'=>'Заправка кондиционера в автомобиле',
+            'service_10'=>'Заправка кондиционера в автомобиле',
+            'service_11'=>'от 900 р.',
+            'service_12'=>'1500',
+            'service_template'=>'/views/service_page/main_service.php',
+            'price' => '6 000'
+
+        ],
+'remont-avtokondicionerov'=>[ //ремонт-автокондиционеров
+            'ucode'=>'%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82-%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D0%BE%D0%BD%D0%B4%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%B5%D1%80%D0%BE%D0%B2',
+            'session_start'=>'remont-avtokondicionerov',
+            'service_1'=>'Ремонт автокондиционеров',
+            'service_7'=>'Ремонт автокондиционеров',
+            'service_9'=>'Ремонт автокондиционеров',
+            'service_10'=>'Ремонт автокондиционеров',
+            'service_11'=>'от 900 р.',
+            'service_12'=>'1500',
+            'service_template'=>'/views/service_page/main_service.php',
+            'price' => '6 000'
+
+        ],
+'snyatie-sekretok-s-koles'=>[ //снятие-секреток-с-колес
+            'ucode'=>'%D1%81%D0%BD%D1%8F%D1%82%D0%B8%D0%B5-%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%BE%D0%BA-%D1%81-%D0%BA%D0%BE%D0%BB%D0%B5%D1%81',
+            'session_start'=>'snyatie-sekretok-s-koles',
+            'service_1'=>'Снятие секреток с колес',
+            'service_7'=>'Снятие секреток с колес',
+            'service_9'=>'Снятие секреток с колес',
+            'service_10'=>'Снятие секреток с колес',
+            'service_11'=>'от 900 р.',
+            'service_12'=>'1500',
+            'service_template'=>'/views/service_page/main_service.php',
+            'price' => '6 000'
+
+        ],

@@ -15,6 +15,7 @@ template = """'ENCOMMENT'=>[ //COMMENT
 
         ],"""
 
+scoreText = ""
 with open("scoreLinks", "r", encoding="utf8") as f:
     for line in f:
         ruenlst = line.split(";")
@@ -22,5 +23,10 @@ with open("scoreLinks", "r", encoding="utf8") as f:
         text = text.replace("ENCOMMENT", ruenlst[1].replace("\n", ""))
         text = text.replace("COMMENT", ruenlst[0])
         text = text.replace("RUTEXT", ruenlst[0].replace("-", " ").capitalize())
-        print(quote(ruenlst[0]))
-        print(text)
+        text = text.replace("URLDECODE", quote(ruenlst[0]))
+        scoreText = scoreText + text + "\n"
+    f.close()
+
+with open("pages.txt", "w", encoding="utf8") as f:
+    f.write(scoreText)
+    f.close()
