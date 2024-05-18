@@ -13,7 +13,8 @@ with open("enlinks", "r", encoding="utf8") as f2:
 print(lst)
 print(enlst)
 
-for i in range(len(lst)):
-    with open("scoreLinks", "a+", encoding="utf8") as f:
+
+with open("scoreLinks", "w", encoding="utf8") as f:
+    for i in range(len(lst)):
         f.write(lst[i].replace("\n", "") + ";" + enlst[i])
-    f.close()    
+    f.close()

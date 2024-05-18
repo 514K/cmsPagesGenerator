@@ -1,4 +1,3 @@
-import urllib.parse
 from urllib.parse import quote
 
 template = """'ENCOMMENT'=>[ //COMMENT
